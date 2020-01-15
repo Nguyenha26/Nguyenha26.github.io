@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Booleans and Logical operators"
-date:       2020-01-15 17:38:33 +0000
+date:       2020-01-15 12:38:34 -0500
 permalink:  booleans_and_logical_operators
 ---
 
