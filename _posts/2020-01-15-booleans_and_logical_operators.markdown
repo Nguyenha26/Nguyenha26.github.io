@@ -10,18 +10,18 @@ Boolean expressions allow programmers to write programs that help decide whether
 
 A boolean is a “value used in a logical statement to say if something is considered true or false. In order to return true or false values, booleans use two types of operators: Rational and Logical. Rational operators compares two arithmetic expressions and uses boolean help determine the results. Here are six frequently used rational operators:
 
-* == (equal to)
-* != (not equal to)
-* < (less than)
-* <= (less than or equal to
-* > (greater than)
-* >= (greater than or equal to)
+* "==" (equal to)
+* "!=" (not equal to)
+* "<" (less than)
+* "<=" (less than or equal to
+* ">" (greater than)
+* ">=" (greater than or equal to)
 
 Logical operators combine boolean values and evaluate to a boolean result. Here are the 3 main logical operators: 
 
-* ! (“Single-bang”) which represents “NOT”
-* && (“double-ampersand”) which represents “AND”
-* | | (“double-pipe”) represents “OR” 
+* "!" (“Single-bang”) which represents “NOT”
+* "&&" (“double-ampersand”) which represents “AND”
+* "| |" (“double-pipe”) represents “OR” 
 
 In this lab, we will be using logic operators and conditional statements (if, elsif, else) to solve it. 
 
